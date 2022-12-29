@@ -3,42 +3,72 @@
     "isim": "Hep-B",
     "bilgi": "",
     "yanEtki": "",
-    "gorsel": "https://cetinkaraca.com/wp-content/uploads/2021/03/hepatit-b-tedavi-sureci.jpg"
+    "gorsel": "https://cetinkaraca.com/wp-content/uploads/2021/03/hepatit-b-tedavi-sureci.jpg",
+    "birinci": "0",
+    "ikinci": "1",
+    "ucuncu": "6"
   },
   {
     "isim": "BCG",
     "bilgi": "",
     "yanEtki": "",
-    "gorsel": "https://i.haberler.com/galeri/2020/10/13/yeni-umut-isigi-yuz-yil-once-bulunan-verem-bcg-718523_8340_3_b.jpg"
+    "gorsel": "https://i.haberler.com/galeri/2020/10/13/yeni-umut-isigi-yuz-yil-once-bulunan-verem-bcg-718523_8340_3_b.jpg",
+    "birinci": "2",
+    "ikinci": "",
+    "ucuncu": ""
+  },
+  {
+    "isim": "KPA",
+    "bilgi": "",
+    "yanEtki": "",
+    "gorsel": "https://bioprocessintl.com/wp-content/uploads/2021/03/pneumococcal-vaccine-Bernard-Chantal.jpg",
+    "birinci": "2",
+    "ikinci": "4",
+    "ucuncu": ""
   },
     {
     "isim": "DaBT-İPA-Hib",
     "bilgi": "",
     "yanEtki": "",
-    "gorsel": "https://www.bebekhastanesi.com/wp-content/uploads/2019/01/dbt-polio-asisi-768x512.jpg.webp"
+    "gorsel": "https://www.bebekhastanesi.com/wp-content/uploads/2019/01/dbt-polio-asisi-768x512.jpg.webp",
+    "birinci": "2",
+    "ikinci": "4",
+    "ucuncu": "6"
   },
     {
     "isim": "OPA",
     "bilgi": "",
     "yanEtki": "",
-    "gorsel": "https://cdn1.ntv.com.tr/gorsel/3dxcgnce30CAhrV3V60iUw.jpg?width=960&mode=crop&scale=both"
+    "gorsel": "https://cdn1.ntv.com.tr/gorsel/3dxcgnce30CAhrV3V60iUw.jpg?width=960&mode=crop&scale=both",
+    "birinci": "6",
+    "ikinci": "18",
+    "ucuncu": ""
   },
     {
     "isim": "Suçiçeği",
     "bilgi": "",
     "yanEtki": "",
-    "gorsel": "https://st3.depositphotos.com/1167801/32027/i/600/depositphotos_320278686-stock-photo-small-drug-vial-with-chickenpox.jpg"
+    "gorsel": "https://st3.depositphotos.com/1167801/32027/i/600/depositphotos_320278686-stock-photo-small-drug-vial-with-chickenpox.jpg",
+    "birinci": "12",
+    "ikinci": "",
+    "ucuncu": ""
   },
     {
     "isim": "KKK",
     "bilgi": "",
     "yanEtki": "",
-    "gorsel": "https://www.medikalakademi.com.tr/wp-content/uploads/2022/07/kkk-asisi-igne-5-375x189.jpg.webp"
+    "gorsel": "https://www.medikalakademi.com.tr/wp-content/uploads/2022/07/kkk-asisi-igne-5-375x189.jpg.webp",
+    "birinci": "12",
+    "ikinci": "48",
+    "ucuncu": ""
   },
     {
     "isim": "Hep-A",
     "bilgi": "",
     "yanEtki": "",
-    "gorsel": "https://www.edoktortv.com/wp-content/uploads/2019/08/hepatit-a-tedavisi.jpg"
+    "gorsel": "https://www.edoktortv.com/wp-content/uploads/2019/08/hepatit-a-tedavisi.jpg",
+    "birinci": "18",
+    "ikinci": "24",
+    "ucuncu": ""
   }
 ]
