@@ -1,7 +1,7 @@
 [
   {
     "isim": "Hepatit B",
-    "bilgi": "Hepatit B aşısı, Hepatit B virüsüne karşı koruyucu bir aşıdır. Bu virüs, karaciğer enfeksiyonuna yol açabilir ve ciddi sağlık sorunlarına neden olabilir. Hepatit B aşısı, özellikle hep B virüsüne yatkın olan bireyler için önerilir, ancak herkes için yararlı bir aşıdır. Bu aşı, çocukluk döneminde verilir ve genellikle üç dozdan oluşur. Bir kez aşılanan bireylerin çoğu, hep B virüsüne karşı koruma sağlar.",
+    "bilgi": "- Hepatit B aşısı, Hepatit B virüsüne karşı koruyucu bir aşıdır. Bu virüs, karaciğer enfeksiyonuna yol açabilir ve ciddi sağlık sorunlarına neden olabilir. Hepatit B aşısı, özellikle hep B virüsüne yatkın olan bireyler için önerilir, ancak herkes için yararlı bir aşıdır. \n- Bu aşı, çocukluk döneminde verilir ve genellikle üç dozdan oluşur. Bir kez aşılanan bireylerin çoğu, hep B virüsüne karşı koruma sağlar.",
     "yanEtki": "",
     "gorsel": "https://cetinkaraca.com/wp-content/uploads/2021/03/hepatit-b-tedavi-sureci.jpg",
     "birinci": "0",
@@ -10,7 +10,7 @@
   },
   {
     "isim": "Verem",
-    "bilgi": "Verem aşısı, beyaz verem (varicella) hastalığına karşı yapılan bir aşıdır. Bu hastalık, çocukluk çağında sıkça görülen ve yüksek ateş, yara ve kabarık yüzeyler oluşturan kaşıntılı bir deri enfeksiyonudur. Aşı, insan herpesvirus tip 3 (varicella-zoster virus) tarafından oluşturulan antijenleri içerir ve vücutta beyaz verem hastalığına karşı koruyucu bir yanıt oluşturur.",
+    "bilgi": "- Verem aşısı, beyaz verem (varicella) hastalığına karşı yapılan bir aşıdır. Bu hastalık, çocukluk çağında sıkça görülen ve yüksek ateş, yara ve kabarık yüzeyler oluşturan kaşıntılı bir deri enfeksiyonudur. \n- Aşı, insan herpesvirus tip 3 (varicella-zoster virus) tarafından oluşturulan antijenleri içerir ve vücutta beyaz verem hastalığına karşı koruyucu bir yanıt oluşturur.",
     "yanEtki": "",
     "gorsel": "https://i.haberler.com/galeri/2020/10/13/yeni-umut-isigi-yuz-yil-once-bulunan-verem-bcg-718523_8340_3_b.jpg",
     "birinci": "2",
