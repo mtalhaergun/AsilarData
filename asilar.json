@@ -1,7 +1,7 @@
 [
   {
-    "isim": "Hep-B",
-    "bilgi": "",
+    "isim": "Hepatit B",
+    "bilgi": "Hepatit B aşısı, Hepatit B virüsüne karşı koruyucu bir aşıdır. Bu virüs, karaciğer enfeksiyonuna yol açabilir ve ciddi sağlık sorunlarına neden olabilir. Hepatit B aşısı, özellikle hep B virüsüne yatkın olan bireyler için önerilir, ancak herkes için yararlı bir aşıdır. Bu aşı, çocukluk döneminde verilir ve genellikle üç dozdan oluşur. Bir kez aşılanan bireylerin çoğu, hep B virüsüne karşı koruma sağlar.",
     "yanEtki": "",
     "gorsel": "https://cetinkaraca.com/wp-content/uploads/2021/03/hepatit-b-tedavi-sureci.jpg",
     "birinci": "0",
@@ -9,8 +9,8 @@
     "ucuncu": "6"
   },
   {
-    "isim": "BCG",
-    "bilgi": "",
+    "isim": "Verem",
+    "bilgi": "Verem aşısı, beyaz verem (varicella) hastalığına karşı yapılan bir aşıdır. Bu hastalık, çocukluk çağında sıkça görülen ve yüksek ateş, yara ve kabarık yüzeyler oluşturan kaşıntılı bir deri enfeksiyonudur. Aşı, insan herpesvirus tip 3 (varicella-zoster virus) tarafından oluşturulan antijenleri içerir ve vücutta beyaz verem hastalığına karşı koruyucu bir yanıt oluşturur.",
     "yanEtki": "",
     "gorsel": "https://i.haberler.com/galeri/2020/10/13/yeni-umut-isigi-yuz-yil-once-bulunan-verem-bcg-718523_8340_3_b.jpg",
     "birinci": "2",
@@ -19,7 +19,7 @@
   },
   {
     "isim": "KPA",
-    "bilgi": "",
+    "bilgi": "Conjugated pneumococcus vaccine (Pneumokok aşısı) Streptococcus pneumoniae adlı bakterinin neden olduğu hastalıkları önlemeyi amaçlayan bir aşıdır. Bu aşı, bebeğin doğumdan sonra çocukluk döneminde verilir ve pnömokok enfeksiyonlarını önlemeye yöneliktir. Pnömokok enfeksiyonları, özellikle çocuklar ve yaşlılar için ciddi ve hatta ölümcül olabilen birçok farklı hastalığa neden olabilir, bu nedenle bu aşının çocuklar için önemi büyüktür.",
     "yanEtki": "",
     "gorsel": "https://bioprocessintl.com/wp-content/uploads/2021/03/pneumococcal-vaccine-Bernard-Chantal.jpg",
     "birinci": "2",
@@ -28,7 +28,7 @@
   },
     {
     "isim": "DaBT-İPA-Hib",
-    "bilgi": "",
+    "bilgi": "DaBT-IPV-Hib aşısı, difteri, boğmaca ve hib, yani difteri, pertussis (boğmaca) ve Haemophilus influenzae tip b (Hib) bakterilerine karşı koruyucu bir aşıdır. Bu aşı, bebekler ve çocuklar için tavsiye edilir ve genellikle birkaç doz olarak verilir. Aşı, vücudun bu bakterilere karşı antikor üreterek vücudu bu hastalıklardan korur. Eğer aşı olmamışsanız bu hastalıklara karşı daha duyarlı hale gelebilirsiniz.",
     "yanEtki": "",
     "gorsel": "https://www.bebekhastanesi.com/wp-content/uploads/2019/01/dbt-polio-asisi-768x512.jpg.webp",
     "birinci": "2",
@@ -36,8 +36,8 @@
     "ucuncu": "6"
   },
     {
-    "isim": "OPA",
-    "bilgi": "",
+    "isim": "Çocuk Felci",
+    "bilgi": "Çocuk felci aşısı, poliomiyelit adı verilen bir hastalığı önleyen bir aşıdır. Poliomiyelit, beyin ve omurilikte hasar yaratan bir virüs nedeniyle oluşan bir hastalıktır. Çocuk felci aşısı, poliovirus bakterisinin bir çeşidini içerir ve vücutta bu virüsün etkisini önleyerek çocuk felci (poliomiyelit) hastalığından korur. Aşı, aşılamayı tamamlamış olan çocuklar için çok etkili bir koruma sağlar ve genellikle ömür boyu koruma sağlar.",
     "yanEtki": "",
     "gorsel": "https://cdn1.ntv.com.tr/gorsel/3dxcgnce30CAhrV3V60iUw.jpg?width=960&mode=crop&scale=both",
     "birinci": "6",
@@ -46,7 +46,7 @@
   },
     {
     "isim": "Suçiçeği",
-    "bilgi": "",
+    "bilgi": "Suçiçeği aşısı, suçiçeği (Hepatitis A) virüsüne karşı koruma sağlayan bir aşıdır. Bu aşı, çocuklar ve yetişkinler için önerilir ve genellikle bir veya iki doz olarak verilir. Suçiçeği aşısı, aşının yapıldığı andan itibaren en az yüzde yüz etkilidir ve suçiçeği virüsüne karşı koruma sağlar. Bu aşı, aşı yaptıran kişinin suçiçeği virüsüne karşı korunmasını sağlar ve bu virüsün bulaşmasını önler.",
     "yanEtki": "",
     "gorsel": "https://st3.depositphotos.com/1167801/32027/i/600/depositphotos_320278686-stock-photo-small-drug-vial-with-chickenpox.jpg",
     "birinci": "12",
@@ -54,8 +54,8 @@
     "ucuncu": ""
   },
     {
-    "isim": "KKK",
-    "bilgi": "",
+    "isim": "Kızamık Kabakulak",
+    "bilgi": "MMR aşısı, kızamık, kabakulak ve kızamıkçık adı verilen üç önemli salgın hastalığının aşısıdır. Bu aşı, çocukların ve yetişkinlerin bu hastalıklara karşı korunması için verilir. Bu aşı, aynı anda iki doz olarak verilir ve çoğu ülkede çocukların aşı kalemlerine dahil edilir. Bu aşının etkisi çok yüksektir ve bu hastalıklara karşı koruma sağlar. Aşı, aşı olmayan kişilerle temas halinde bulunduğunuzda bile etkili olur.",
     "yanEtki": "",
     "gorsel": "https://www.medikalakademi.com.tr/wp-content/uploads/2022/07/kkk-asisi-igne-5-375x189.jpg.webp",
     "birinci": "12",
@@ -63,8 +63,8 @@
     "ucuncu": ""
   },
     {
-    "isim": "Hep-A",
-    "bilgi": "",
+    "isim": "Hepatit A",
+    "bilgi": "Hepatit A aşısı, hepatit A virüsüne karşı koruma sağlamaya yönelik bir aşıdır. Hepatit A virüsü, karaciğer enfeksiyonu yaparak karaciğer hasarına neden olabilen bir virüstür. Aşı, vücuda hepatit A virüsünün antijenlerini (çoğalmaya çalışan bir mikroorganizma veya maddeyi etkisiz hale getirebilmek için vücut tarafından üretilen proteinler) veya inaktif (çalışmaz hale getirilmiş) formlarını içerir ve vücut bu antijenlerle yüzleştirildiğinde, antikorlar üretir. Bu antikorlar, gelecekte vücuda giren hepatit A virüsünü tanıyarak vücut tarafından etkisiz hale getirilebilir.",
     "yanEtki": "",
     "gorsel": "https://www.edoktortv.com/wp-content/uploads/2019/08/hepatit-a-tedavisi.jpg",
     "birinci": "18",
